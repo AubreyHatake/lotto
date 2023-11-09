@@ -1,5 +1,6 @@
 body {
-    background-color: rgb(252, 233, 252);
+    background-image: url("/img/PinkMoneycropped.jpg");
+    background-repeat: no-repeat;
 }
 
 .resultContainer {
@@ -9,10 +10,22 @@ body {
     border-color: black;
     border-width: 4px;
     background-color: white;
+    box-shadow: 0 0 50px 40px rgb(235, 113, 182);
 }
 
 p {
     text-align: center;
+    font-family: 'Arial';
+    font-size: larger;
+    font-weight: bold;
+    color: black;
+}
+
+button {
+    margin: 10px;
+    text-align: center;
+    padding: 15px;
+    width: 10%;
     font-family: 'Arial';
     font-size: larger;
     font-weight: bold;
