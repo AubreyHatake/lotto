@@ -35,4 +35,5 @@ else
     document.getElementById("results").innerHTML = "Enter a number less than 9"
 }
 
+// this will generate more numbers if the user clicks the button on the page
 document.getElementById("btn").addEventListener("click", displayNumbers);
