@@ -1,7 +1,6 @@
 body {
-    background-image: url("/img/PinkMoneycropped.jpg");
+    background-image: url("./img/PinkMoneycropped.jpg");
     background-repeat: cover;
-    background-color: rgb(212, 240, 212)78, 253, 178;
 }
 
 .resultContainer {
